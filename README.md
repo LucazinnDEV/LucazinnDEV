@@ -20,7 +20,7 @@ Sou um desenvolvedor em desenvolvimento apaixonado por tecnologia e sempre em bu
 
 ## Projetos em Destaque
 
-- [Projeto 1](https://github.com/LucazinnDEV/Projeto-Python-cesar): Um programa que permite o usuário organizar treinos e competições a partir de um programa em Python, possui várias funcionalidades e foi feito para uma apresentação da faculdade.
+- [Projeto](https://github.com/LucazinnDEV/Projeto-Python-cesar): Um programa que permite o usuário organizar treinos e competições a partir de um programa em Python, possui várias funcionalidades e foi feito para uma apresentação da faculdade.
 
 ## Estatísticas do GitHub
 
