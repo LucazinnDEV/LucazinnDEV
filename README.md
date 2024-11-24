@@ -24,8 +24,8 @@ Sou um desenvolvedor em desenvolvimento apaixonado por tecnologia e sempre em bu
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucazinnDEV)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucazinnDEV)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucazinnDEV&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucazinnDEV&theme=radical)
 
 ## Contribuições
 
