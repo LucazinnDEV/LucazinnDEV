@@ -34,6 +34,5 @@ Se você quiser contribuir para algum dos meus projetos, sinta-se à vontade par
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-samuel-75b496274/)
 - [Instagram](https://www.instagram.com/lucas.szz_/)
-- [E-mail]lucasdevctt01@gmail.com
 
 Obrigado por visitar meu perfil! 🚀
