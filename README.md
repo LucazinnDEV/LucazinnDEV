@@ -4,7 +4,7 @@ Sou um desenvolvedor em desenvolvimento apaixonado por tecnologia e sempre em bu
 
 ## Sobre Mim
 
-- 💻 Futuro desenvolvedor front-end
+- 💻 Futuro desenvolvedor Back-end
 - 📚 Cursando Ciências da computação na **CESAR School**
 - 🌱 Atualmente aprendendo sobre **Python** e **Desenvolvimento Front-end**
 - 🌍 Recife-PE
